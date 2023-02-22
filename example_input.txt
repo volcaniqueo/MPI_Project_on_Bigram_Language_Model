@@ -1,0 +1,6 @@
+<s> This is a sample input file text </s>
+<s> for the MPI project for our CMPE 300 course </s>
+<s> This semester we also take CMPE 344 and CMPE 343 </s>
+<s> All the CMPE courses we take are all very informative </s>
+<s> This text file designated to show the probability of the bigram CMPE 300 </s>
+<s> This is the final line of this basic input text </s>
